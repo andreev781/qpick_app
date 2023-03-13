@@ -178,6 +178,7 @@ export default {
 
   }
   @media screen and (max-width: 576px) {
+    padding: 10px 0;
     &-dropdown button, &-subdropdown button {
       font-size: 13px;
     }

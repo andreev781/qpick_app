@@ -126,7 +126,7 @@ img {
   }
   .goods-item {
     border-radius: 10px;
-    padding: 6px;
+    padding: 12px 6px;
     &__title {
       font-size: 14px;
     }

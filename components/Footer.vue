@@ -23,20 +23,6 @@
                     <div class="footer__conditions">
                         <nuxt-link :to="{path: '/conditions'}" href="#" @click="show($event)">Условия сервиса</nuxt-link>
                     </div>
-                    <ul class="footer-language">
-                        <div class="footer-language__item">
-                            <v-icon>fa-solid fa-globe</v-icon>
-                        </div>
-                        <div class="footer-language__item">
-                            <a href="#" class="footer-language__link">Каз</a>
-                        </div>
-                        <div class="footer-language__item">
-                            <a href="#" class="footer-language__link">Рус</a>
-                        </div>
-                        <div class="footer-language__item">
-                            <a href="#" class="footer-language__link">Eng</a>
-                        </div>
-                    </ul>
                 </b-col>
             </b-row>
         </div>
@@ -86,25 +72,9 @@ export default {
             }
             }
         }
-        &-language {
-            display: flex;
-            align-items: center;
-            margin-top: 35px;
-            &__item {
-                &:not(:last-child) {
-                    margin-right: 15px;
-                }
-
-            }
-            &__link {
-                font-size: 17px;
-                font-weight: 400;
-                & {
-                    color: #000;
-                }
-                &:hover {
-                    color: #FFA542
-                }
+        @media screen and (max-width: 768px) {
+            &__logo  img{
+                margin-bottom: 15px;
             }
         }
     }

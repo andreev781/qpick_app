@@ -41,6 +41,8 @@ export default({
         }
         @media screen and(max-width: 991px) {
             font-size: 15px;
+            margin-top: 15px;
         }
+
     }
 </style>

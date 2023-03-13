@@ -29,7 +29,7 @@
                     </span>
                 </div>
             </b-col>
-            <b-col lg="1" offset="1">
+            <b-col lg="1" offset-md="1">
                 <ul class="contacts__social">
                     <li class="contacts__icon">
                         <v-icon>fa-brands fa-whatsapp</v-icon>
