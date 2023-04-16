@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Cart",
+    "path": "/Cart",
+    "component": "C:\\\\Users\\\\Nocok\\\\OneDrive\\\\Рабочий стол\\\\WEB\\\\Portfolio\\\\QPICK\\\\pages\\\\Cart.vue",
+    "chunkName": "pages/Cart"
+  },
+  {
+    "name": "Completed",
+    "path": "/Completed",
+    "component": "C:\\\\Users\\\\Nocok\\\\OneDrive\\\\Рабочий стол\\\\WEB\\\\Portfolio\\\\QPICK\\\\pages\\\\Completed.vue",
+    "chunkName": "pages/Completed"
+  },
+  {
+    "name": "Conditions",
+    "path": "/Conditions",
+    "component": "C:\\\\Users\\\\Nocok\\\\OneDrive\\\\Рабочий стол\\\\WEB\\\\Portfolio\\\\QPICK\\\\pages\\\\Conditions.vue",
+    "chunkName": "pages/Conditions"
+  },
+  {
+    "name": "Contacts",
+    "path": "/Contacts",
+    "component": "C:\\\\Users\\\\Nocok\\\\OneDrive\\\\Рабочий стол\\\\WEB\\\\Portfolio\\\\QPICK\\\\pages\\\\Contacts.vue",
+    "chunkName": "pages/Contacts"
+  },
+  {
+    "name": "Favorites",
+    "path": "/Favorites",
+    "component": "C:\\\\Users\\\\Nocok\\\\OneDrive\\\\Рабочий стол\\\\WEB\\\\Portfolio\\\\QPICK\\\\pages\\\\Favorites.vue",
+    "chunkName": "pages/Favorites"
+  },
+  {
+    "name": "Ordering",
+    "path": "/Ordering",
+    "component": "C:\\\\Users\\\\Nocok\\\\OneDrive\\\\Рабочий стол\\\\WEB\\\\Portfolio\\\\QPICK\\\\pages\\\\Ordering.vue",
+    "chunkName": "pages/Ordering"
+  },
+  {
+    "name": "product-id",
+    "path": "/product/:id",
+    "component": "C:\\\\Users\\\\Nocok\\\\OneDrive\\\\Рабочий стол\\\\WEB\\\\Portfolio\\\\QPICK\\\\pages\\\\product\\\\_id\\\\index.vue",
+    "chunkName": "pages/product/_id/index"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Nocok\\\\OneDrive\\\\Рабочий стол\\\\WEB\\\\Portfolio\\\\QPICK\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
